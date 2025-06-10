@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5797b12cd56b0e4b922937fe9d855b8, type: 3}
+  m_Name: TestData
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - tableName: TestData
+    tableKey: 100001
+    hasOption: 1
+    mainActor:
+      actorId: 10001
+      actorExpression: 0
+    talkingToActor:
+      actorId: 10002
+      actorExpression: 0
+    options:
+    - tableName: TestData
+      tableKey: 10000101
+      skipTo: 1
+    - tableName: TestData
+      tableKey: 10000102
+      skipTo: 2
+    reAssignPosition: 0
+    leftSidePosition2Actor:
+      actorId: 0
+      actorExpression: 0
+    rightSidePosition2Actor:
+      actorId: 0
+      actorExpression: 0
+    jumpTo: -1
+  - tableName: TestData
+    tableKey: 100002
+    hasOption: 0
+    mainActor:
+      actorId: 10001
+      actorExpression: 0
+    talkingToActor:
+      actorId: 10002
+      actorExpression: 0
+    options: []
+    reAssignPosition: 0
+    leftSidePosition2Actor:
+      actorId: 0
+      actorExpression: 0
+    rightSidePosition2Actor:
+      actorId: 0
+      actorExpression: 0
+    jumpTo: -1
+  - tableName: TestData
+    tableKey: 100003
+    hasOption: 0
+    mainActor:
+      actorId: 10001
+      actorExpression: 0
+    talkingToActor:
+      actorId: 10003
+      actorExpression: 0
+    options: []
+    reAssignPosition: 0
+    leftSidePosition2Actor:
+      actorId: 0
+      actorExpression: 0
+    rightSidePosition2Actor:
+      actorId: 0
+      actorExpression: 0
+    jumpTo: -1
+  - tableName: TestData
+    tableKey: 100004
+    hasOption: 0
+    mainActor:
+      actorId: 10002
+      actorExpression: 0
+    talkingToActor:
+      actorId: 10004
+      actorExpression: 0
+    options: []
+    reAssignPosition: 0
+    leftSidePosition2Actor:
+      actorId: 0
+      actorExpression: 0
+    rightSidePosition2Actor:
+      actorId: 0
+      actorExpression: 0
+    jumpTo: -1

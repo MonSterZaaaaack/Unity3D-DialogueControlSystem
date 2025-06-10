@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6700e5407c1acc84fa7baaa9e33f1ec5
+timeCreated: 1506495661
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101361
+  packageName: 2D Animate Girl Character3
+  packageVersion: 1.0
+  assetPath: Assets/Animate Character/Girl3/Script/PlayAnimation.cs
+  uploadId: 204335

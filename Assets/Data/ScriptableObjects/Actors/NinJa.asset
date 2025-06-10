@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d7b6b11cc516c94f908fe4a906147cc, type: 3}
+  m_Name: NinJa
+  m_EditorClassIdentifier: 
+  actorName: Ninja
+  tableName: ActorName
+  tableEntry: 10003
+  actorId: 10003
+  neutralPortrait: {fileID: 21300000, guid: e480585590b117443974744d58ee2162, type: 3}
+  neutralProfileIcon: {fileID: 21300000, guid: e480585590b117443974744d58ee2162, type: 3}
+  happyPortrait: {fileID: 21300000, guid: 192eccda280e2ec4c99be851889e09ed, type: 3}
+  happyProfileIcon: {fileID: 21300000, guid: 192eccda280e2ec4c99be851889e09ed, type: 3}
+  angryPortrait: {fileID: 21300000, guid: 0ffdf19da652afe48a12609e61ed7b94, type: 3}
+  angryProfileIcon: {fileID: 21300000, guid: 0ffdf19da652afe48a12609e61ed7b94, type: 3}
+  sadPortrait: {fileID: 21300000, guid: d01f5abdf66dfaa4f8969d2db66c9e72, type: 3}
+  sadProfileIcon: {fileID: 21300000, guid: d01f5abdf66dfaa4f8969d2db66c9e72, type: 3}

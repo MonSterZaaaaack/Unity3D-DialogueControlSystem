@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ActorName_zh-CN
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh-CN
+  m_SharedData: {fileID: 11400000, guid: e798262af2f80ed4eb93249d53758d73, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 885313772847104
+    m_Localized: "\u4F01\u9E45"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 885401576407040
+    m_Localized: "\u9A91\u58EB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1494567361839104
+    m_Localized: "\u5FCD\u8005"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1494622948950016
+    m_Localized: "\u5973\u5B69"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

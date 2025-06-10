@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: OptionsLine_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 88046dec7881d8442b90eec124bdc049, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1177681920
+    m_Localized: Add NinJa To Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071068672
+    m_Localized: Add Girl To Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2264006656
+    m_Localized: End of Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188176969728
+    m_Localized: Add Girl To Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5188399267840
+    m_Localized: End of Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6502755729408
+    m_Localized: Add Girl To Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6502969638912
+    m_Localized: End of Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7131901329408
+    m_Localized: Add Girl To Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7132123627520
+    m_Localized: End of Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7210695524352
+    m_Localized: Test Option
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8306549719040
+    m_Localized: Add Girl To Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8306935595008
+    m_Localized: End of Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8307250167808
+    m_Localized: test Option 06
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

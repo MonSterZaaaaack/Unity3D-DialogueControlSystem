@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: DialogueLines_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3e68e36c65481cf449ad9a1a219563d4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 885490147524608
+    m_Localized: Test Text 01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 886050460401664
+    m_Localized: Test Test  Test 02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1152326214746112
+    m_Localized: Test Text3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1152326550290432
+    m_Localized: Test Text4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1498003486670848
+    m_Localized: Add NinJa to Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1498003717357568
+    m_Localized: Add Girl To scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1498004082262016
+    m_Localized: End of Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1503189638709248
+    m_Localized: Add NinJa To Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1503189890367488
+    m_Localized: Add Girl To Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1503190452404224
+    m_Localized: End of Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1504713370632192
+    m_Localized: Test Text 06
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1506467843801088
+    m_Localized: Add Ninja To Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1506629735546880
+    m_Localized: Add Girl To Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1506630180143104
+    m_Localized: End of Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1506630582796288
+    m_Localized: Test Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1508553562128384
+    m_Localized: Test Scene 07
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

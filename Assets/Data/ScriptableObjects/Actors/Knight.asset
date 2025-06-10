@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d7b6b11cc516c94f908fe4a906147cc, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  actorName: Knight
+  tableName: ActorName
+  tableEntry: 10002
+  actorId: 10002
+  neutralPortrait: {fileID: 21300010, guid: ae297123f091bbf4e8f1835eb98fb293, type: 3}
+  neutralProfileIcon: {fileID: 21300010, guid: ae297123f091bbf4e8f1835eb98fb293, type: 3}
+  happyPortrait: {fileID: 21300040, guid: ae297123f091bbf4e8f1835eb98fb293, type: 3}
+  happyProfileIcon: {fileID: 21300040, guid: ae297123f091bbf4e8f1835eb98fb293, type: 3}
+  angryPortrait: {fileID: 21300052, guid: ae297123f091bbf4e8f1835eb98fb293, type: 3}
+  angryProfileIcon: {fileID: 21300052, guid: ae297123f091bbf4e8f1835eb98fb293, type: 3}
+  sadPortrait: {fileID: 21300012, guid: 432e48af0c833ad4587d222b812b844f, type: 3}
+  sadProfileIcon: {fileID: 21300012, guid: 432e48af0c833ad4587d222b812b844f, type: 3}
