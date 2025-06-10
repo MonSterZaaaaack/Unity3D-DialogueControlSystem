@@ -2,7 +2,7 @@
 
 This is a lightweight, editor-integrated **Dialogue Control System** for Unity, designed for quick deployment and intuitive usage. It includes both runtime functionality and a custom Unity Editor tool to manage dialogue content efficiently.
 
-> **Note**: This system is a **personal use, experimental product**. For questions or detailed instructions on how to use it, feel free to contact:  
+> **Note**: This system is a **personal use, experimental product**. For questions or detailed instructions on how to use it, feel free to contact: zackyang421@gmail.com
 
 
 ---
